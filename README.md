@@ -1,7 +1,6 @@
-# Expensify App
+# Boilerplate for creating React-Redux based projects
 
-My first React.js project.
-In this project we show a list of expenses. The user can view, add, edit and delete expenses.
+This is a boilerplate for creating React-Redux based projects.
 
 ## Prerequisites
 
@@ -49,6 +48,15 @@ yarn build
 * [Yarn](https://yarnpkg.com/en/) - Dependency Management
 * [React.js](https://reactjs.org/) - The UI library used
 * [Redux](https://redux.js.org/) - The client side state container
+* [React Router](https://www.npmjs.com/package/react-router) - Router for the project
+* [Firestore](https://firebase.google.com/docs/firestore) - Backend no-sql datastore for persisting data
+* [Redux Thunk](https://github.com/reduxjs/redux-thunk) - With a plain basic Redux store, you can only do simple synchronous updates by dispatching an action. Middleware extend the store's abilities, and let you write async logic that interacts with the store
+* [Jest](https://jestjs.io/docs/en/tutorial-react) - Testing library for react
+* [Enzyme](https://airbnb.io/enzyme/) - Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output
+* [Webpack](https://webpack.js.org/) - Module bundler and dev server
+* [Sass](https://sass-lang.com/) - Sass for styling
+* [Babel](https://babeljs.io/) - JavaScript compiler
+* [Express](https://expressjs.com/) - Node.js web server to host the app
 
 ## Authors
 
